@@ -15,5 +15,5 @@ Jobfit is a simple and lightweight **AI-powered resume optimization tool** built
 
 ---
 
-## 📁 Project Structure
+
 
